@@ -12,7 +12,7 @@ var forceSsl = function (req, res, next) {
 };
 
  if (env === 'production') {
-    //  app.use(forceSsl);
+     app.use(forceSsl);
  }
 
 app.get('/', (req, res) => {
