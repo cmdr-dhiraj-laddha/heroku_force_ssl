@@ -1,0 +1,7 @@
+{
+  "name": "Node.js Force SSL",
+  "description": "A Test Code For testing force SSL At heroku with NodeJS",
+  "repository": "https://github.com/cmdr-dhiraj-laddha/heroku_force_ssl",
+  "logo": "https://node-js-sample.herokuapp.com/node.png",
+  "keywords": ["node", "express", "static"]
+}
